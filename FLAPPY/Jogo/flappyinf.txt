@@ -1,0 +1,15 @@
+JOGO FEITO COMO TRABALHO FINAL DA CADEIRA
+
+
+
+
+
+
+para jogar o flappyinf temos que abrir o executável, jogo.exe.
+
+
+P- pausa o jogo
+enter-inicia o jogo
+a cada vez que passa entre os canos, a pontuação sobe em 100 pontos
+
+quando colidir com tubos tanto os de cima quanto os debaixo, o jogo encerra e marca a ultima pontuação feita.
